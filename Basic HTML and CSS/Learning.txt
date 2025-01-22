@@ -1,0 +1,37 @@
+                   Date 22/01/2025 
+
+Q.1: What is Css ? 
+
+Ans: CSS is also called - Cascading Style Sheets.
+     It is a stylesheet language used to describe the presentation and design of a web page.
+
+     
+
+Q.2:  Selectors in CSS ? 
+
+Ans: There are 4 selectors in CSS. 
+
+     1. Univeresal Selector (*):  Used to select whole document and for styling the overall web page like , background color 
+                                  margin, for the page itc.
+
+     2. Class Selector (.): used to select a class which we made in html page and gives stylling to that 
+
+     3. Id Selector (#): Used to select the id of the element and style each of that indivisually. 
+
+     4. Element Selector (h, p , a ) : it is used  to select the element and give the style of that element. 
+
+
+
+
+Q.3: What is the CSS Properties ? 
+
+Ans : There are multiple Properties in css some of them is 
+
+      background- color : used to give the background color to the document of any div. 
+
+      color : used to give the color to the text 
+
+      padding : Padding is the space between the content of an element and its border.
+
+      Margin : Margin is the space outside an element. It creates spacing between the element and its surroundings.
+
