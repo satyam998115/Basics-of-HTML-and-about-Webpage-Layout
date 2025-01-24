@@ -1,0 +1,14 @@
+Q.1: What is CSS Grid ? 
+Ans: CSS Grid is a layout system that uses rows and columns to arrange 
+     elements. Define a grid container with display: grid, then use grid-template-rows
+      and grid-template-columns to create a layout.
+
+Q.1:  How to  Build Complex Layouts with CSS Grid ? 
+Ans: Use grid areas, spanning grid-row and grid-column, and nested
+     grids to create advanced layouts. Combine grid-gap and named areas
+     for better structure.
+
+Q.3: How to Design Responsive web site and what is responsive and mediaqueries ? 
+Ans:  Media queries adapt styles to screen sizes using @media. 
+      For example, @media (max-width: 768px) changes layouts for smaller
+      devices.
